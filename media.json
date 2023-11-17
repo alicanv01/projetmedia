@@ -1,4 +1,24 @@
 {
-  {"type": "gif", "title": "Animation 1", "link": "lien_gif_sur_github.gif"},
-  {"type": "mp4", "title": "Vidéo 1", "link": "lien_video_sur_github.mp4"}
+    "gif": {
+        "gif001": {
+            "type": "gif",
+            "title": "Animation 1",
+            "link": "lien_gif_sur_github.gif"
+        },
+        "gif002": {
+            "type": "gif",
+            "title": "Animation 1",
+            "link": "lien_gif_sur_github.gif"
+        }
+        "gif003": {
+            "type": "gif",
+            "title": "Animation 1",
+            "link": "lien_gif_sur_github.gif"
+        },
+        "gif004": {
+            "type": "gif",
+            "title": "Animation 1",
+            "link": "lien_gif_sur_github.gif"
+        }
+    }
 }
