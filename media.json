@@ -1,0 +1,5 @@
+[
+  {"type": "gif", "title": "Animation 1", "link": "lien_gif_sur_github.gif"},
+  {"type": "mp4", "title": "Vidéo 1", "link": "lien_video_sur_github.mp4"},
+  // Ajoutez d'autres éléments selon vos besoins
+]
