@@ -1,21 +1,21 @@
 {
     "gif": {
-        "1": {
+        "id1": {
             "type": "gif",
             "title": "Animation 1",
             "link": "lien_gif_sur_github.gif"
         },
-        "2": {
+        "id2": {
             "type": "gif",
             "title": "Animation 1",
             "link": "lien_gif_sur_github.gif"
         },
-        "3": {
+        "id3": {
             "type": "gif",
             "title": "Animation 1",
             "link": "lien_gif_sur_github.gif"
         },
-        "4": {
+        "id4": {
             "type": "gif",
             "title": "Animation 1",
             "link": "lien_gif_sur_github.gif"
