@@ -55,5 +55,22 @@
             "title": "spaceman Animation 11",
             "link": "https://cdn.svgator.com/images/2021/08/logo-animation-example-conversable.gif"
         }
+    },
+    "slideContent": {
+        "a0": "HTML",
+        "a1": "CSS",
+        "a2": "JS",
+        "a3": "SSG",
+        "a4": "webdev",
+        "a5": "animation",
+        "a6": "UI/UX",
+        "a7": "3D",
+        "a8": "AFTER EFFECT",
+        "a9": "LOGO",
+        "a10": "MAQUETTE SITE WEB",
+        "a12": "MODELISATION",
+        "a13": "ADOBE ",
+        "a14": "ANIMATION ",
+        "a15": "BLENDER "
     }
 }
